@@ -4,13 +4,6 @@
   <strong>Download multiple files simultaneously using Python Multithreading 🚀</strong>
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3.x-blue?logo=python" alt="Python">
-  <img src="https://img.shields.io/badge/Multithreading-Enabled-success" alt="Multithreading">
-  <img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Status">
-  <img src="https://img.shields.io/badge/Made%20With-Python-yellow?logo=python" alt="Made with Python">
-</p>
-
 ---
 
 ## 📖 Overview
